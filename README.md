@@ -7,4 +7,7 @@ Este é um projeto feito para o curso DIO, onde foi criado um programa capaz de 
 
 ## 🔍 Resultados
 
-![Descrição da imagem](img\Captura de tela 2025-01-09 175807.png)
+
+<img src="https://github.com/user-attachments/assets/0f1e7721-394d-4753-9f22-79f81299fb43" alt="Descrição da imagem" width="550" />
+
+
