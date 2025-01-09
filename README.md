@@ -7,7 +7,9 @@ Este é um projeto feito para o curso DIO, onde foi criado um programa capaz de 
 
 ## 🔍 Resultados
 
+### 1 - Qr Code
+<img src="https://github.com/user-attachments/assets/0f1e7721-394d-4753-9f22-79f81299fb43" width="550" />
 
-<img src="https://github.com/user-attachments/assets/0f1e7721-394d-4753-9f22-79f81299fb43" alt="Descrição da imagem" width="550" />
+### 2 - Senha aleatória
 
-
+<img src="https://github.com/user-attachments/assets/e27244a9-3093-4c9c-8b5f-3f07ce3ce938" width="550" />
